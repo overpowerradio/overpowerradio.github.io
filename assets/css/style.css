@@ -1,0 +1,165 @@
+body {
+			background-image: url("../images/leather_1.png");
+			margin: 0;
+			padding: 0;
+			color: #777777;
+			font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+		}
+
+
+
+header {
+	width: 100%;
+	background-color: #ffffff;
+	overflow: auto;
+	border-bottom-style: solid;
+	border-color: #cccccc;
+	border-width: 0px 0px 1px 0px
+}
+
+h1 {
+	margin: 0;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+
+}
+
+#name {
+	position: relative;
+	margin-left: 100px;
+	float: left;	
+	background-color: #4aaaa5;
+	padding: 20px;
+	color: white;
+	display: inline-block;
+
+}
+
+#navigation {
+	margin-left: 790px;
+	position: relative;
+	width: 270px;
+	text-align: center;
+}
+
+
+a {
+	text-decoration: none;
+	color: #cccccc;
+}
+
+
+#index {
+	width: 89px;
+	float: left;
+	position: relative;
+	top: 25px;
+}
+
+
+#portfolio {
+	width: 90px;
+	float: left;
+	position: relative;
+	top: 25px;
+	border-style: solid;
+	border-color: #cccccc;
+	border-width: 0px 1px 0px 1px;
+
+}
+
+#contact {
+	width: 89px;
+	float: left;
+	position: relative;
+	top: 25px;
+
+}
+
+#Pic {
+	width: 200px;
+	height: 200px;
+	float: left;
+	margin-right: 10px;
+}
+
+#column1 {
+	clear: both;
+	width: 608px;
+	margin-left: 100px;
+	background-color: #ffffff;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	padding: 0 20px 20px 20px;
+	float: left;
+	border-style: solid;
+	border-color: #cccccc;
+	border-width: 1px
+
+}
+
+#Title1 {
+	color: #4aaaa5;
+	border-bottom-style: solid;
+	border-color: #cccccc;
+	border-width: 0px 0px 3px 0px;
+}
+
+h2 {
+	padding: 20px;
+	margin: 0;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+#Column2 {
+	float: left;
+	margin: 40px;
+	position: relative;
+	width: 228px;
+	background-color: #ffffff;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	padding: 0 20px 20px 20px;
+	color: #4aaaa5;
+	text-align: center;
+	border-style: solid;
+	border-color: #cccccc;
+	border-width: 1px
+
+}
+
+#Title2 {
+	color: #4aaaa5;
+	border-bottom-style: solid;
+	border-color: #cccccc;
+	border-width: 0px 0px 2px 0px;
+}
+
+
+h3 {
+	padding: 20px;
+	margin: 0;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+#Networks {
+	margin-top: 20px;
+}
+
+.logos {
+	width: 65px;
+	height: 65px;
+}
+
+#Footer {
+	clear: both;
+	background-color: #666666;
+	text-align: center;
+	color: #ffffff;
+	width: 100%;
+	height: 35px;
+	border-style: solid;
+	border-color: #4aaaa5;
+	border-width: 10px 0px 0px 0px;
+	padding-top: 20px;
+
+}
